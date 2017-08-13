@@ -1,0 +1,1 @@
+We implemented a random number generator. We've heard that rand()'s 32 bit seeds can be easily cracked, so we stayed on the safe side.

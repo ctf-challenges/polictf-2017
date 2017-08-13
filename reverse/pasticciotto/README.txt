@@ -1,0 +1,3 @@
+We found this executable and we think it must have something in common with the baddies' infrastructure. We would be glad to understand what data they are hiding from us...
+
+
